@@ -1,3 +1,9 @@
+<<<<<<< HEAD
                           :                         I
 moved                     :                      here
 recently                  :                       too
+=======
+                          :                         I
+moved                     :                      here
+recently                  :                       too
+>>>>>>> 5897a6ffa84f8ef485d749615856c4c67a050c15
